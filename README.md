@@ -13,7 +13,7 @@
 <br>
 <br>
 
-### [ Associate Cloud Engineer 학습 자료 링크 ]
+### [ Google Associate Cloud Engineer 학습 자료 링크 ]
 
 https://cloud.google.com/learn/certification/cloud-engineer
 <br>
