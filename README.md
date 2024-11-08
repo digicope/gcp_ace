@@ -1,5 +1,5 @@
 
-##  Google Assoicated Cloud Engineer 자격 과정 (2024.11.09~10 / 16~17 , 24Hr)
+##  Google Assoicated Cloud Engineer 자격 과정 (2024.11.09~10,16~17 , 24Hr)
 <br>
 
 ## 강사 git 주소 :    https://github.com/digicope/gcp_ace
