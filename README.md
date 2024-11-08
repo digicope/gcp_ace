@@ -36,4 +36,8 @@ https://cloudwaltz.tistory.com/2
 https://hwisaek.tistory.com/234
 <br>
 
+#### GCP 요약 참고 사이트
+https://homouniversalis.tistory.com/144
+<br>
+
 ##### [필독] 강의 중 깃허브에서 공유되는 자료나 소스는 출판이나 인터넷 공유사이트에서의 무단 배포나 게재시 <br> 저작권 문제가 발생될 수도 있으니 학습을 위한 개인적 용도로만 사용해주시길 부탁드립니다~     
