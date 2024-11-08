@@ -20,6 +20,9 @@ https://cloud.google.com/learn/certification/cloud-engineer
 https://cloud.google.com/learn/certification/guides/cloud-engineer/
 <br>
 
+https://www.cloudskillsboost.google/paths/11
+<br>
+
 #### 기출문제 덤프
 
 https://www.examtopics.com/exams/google/associate-cloud-engineer/view/
