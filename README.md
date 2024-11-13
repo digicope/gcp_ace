@@ -22,6 +22,9 @@ https://cloud.google.com/learn/certification/guides/cloud-engineer/
 
 https://www.cloudskillsboost.google/paths/11
 <br>
+https://www.cloudskillsboost.google/course_templates/2/video/434375
+
+<br>
 
 #### 기출문제 덤프
 
