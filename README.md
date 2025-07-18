@@ -1,11 +1,11 @@
 
-##  Google Assoicated Cloud Engineer 자격 과정 (2024.11.09,10,16,17 , 24Hr)
+##  Google Assoicated Cloud Engineer 자격 과정 (2025.08.09,10,16,17 , 24Hr)
 <br>
 
 ## 강사 git 주소 :    https://github.com/digicope/gcp_ace
 <br>
 
-#### git 사용기간 : 2024.11.09~11.17 (2024.11.17  이후에는 접속 불가)
+#### git 사용기간 : 2025.08.09~09.12(2025.09.12  이후에는 접속 불가)
 
 
 #### 강사: 고병화
